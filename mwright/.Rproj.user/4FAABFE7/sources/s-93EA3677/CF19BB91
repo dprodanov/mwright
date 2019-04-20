@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555742051194.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CF19BB91",
+    "lastKnownWriteTime" : 1555742984,
+    "last_content_update" : 1555742984994,
+    "path" : "C:/GitHub/mwright/mwright/man/mwright.Rd",
+    "project_path" : "man/mwright.Rd",
+    "properties" : {
+        "cursorPosition" : "72,28",
+        "scrollLine" : "54"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

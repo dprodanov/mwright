@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555741077930.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "31B28275",
+    "lastKnownWriteTime" : 1555741160,
+    "last_content_update" : 1555741160773,
+    "path" : "C:/GitHub/mwright/mwright/R/mwright.r",
+    "project_path" : "R/mwright.r",
+    "properties" : {
+        "cursorPosition" : "23,19",
+        "scrollLine" : "21"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
