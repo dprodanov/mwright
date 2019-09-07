@@ -23,8 +23,8 @@ mwright<-function(z,a) {
 #' @keywords Mainardi-Wright
 #' @export mwrighti(z,a)
 #' @examples
-#' imwrighti(0.5, 0.5)
-imwrighti<-function(z,a) {
+#' mwrighti(0.5, 0.5)
+mwrighti<-function(z,a) {
   result<-0
   b<-1
   ifelse (z<0, b<- 0.5, b<-(-0.5) )
