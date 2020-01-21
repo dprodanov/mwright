@@ -1,3 +1,3 @@
 # mwright
 Provides Mainardi's Wright function and its integral.
-The function geenralizes the normal probability distribution and denisty
+The function genralizes the normal probability distribution and denisity
